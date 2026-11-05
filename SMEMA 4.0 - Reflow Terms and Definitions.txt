@@ -1,0 +1,101 @@
+===== Page 1 =====
+SURFACE MOUNT EQUIPMENT MANUFACTURERS ASSOCIATION
+REFLOW TERMS AND DEFINITIONS 4.0
+TABLE 1: Classification of Reflow Technologies:
+TYPE A: Vapor Phase
+TYPE B: Area Conduction
+TYPE C: Hot Bar
+TYPE D: IR, Convection/IR and Convection Ovens
+TYPE E: Laser Reflow
+with TYPE D" further classified as:
+CLASS 1:RADIANT  IR  DOMINANT SYSTEMS
+Heating of the PCB assembly is accomplished predominantly by infrared radiation with little or
+no convection.
+CLASS 11:CONVECTION/IR SYSTEMS
+Heating of the PCB assembly is accomplished by a combination of infrared radiation and
+convection in varying ratios.
+CLASS III:CONVECTION DOMINANT SYSTEMS
+Heating of the PCB assembly is accomplished predominantly by convection with little or no
+infrared.
+TERMS DEFINITIONS
+Aeroso  - Fluid or gas particles small enough to be airborne
+Absorbtivity  - Percentage of infrared absorbed by a substrate as compared with the total incident infrared.
+Blackbody  - A body that absorbs all radiation incident upon its surface
+Bonding Time  - The time from commencement of hot bar heatup (moment of hot bar contact) until the reflow
+profile is completed.
+Color Selectivity  - Preferential absorption of radiation caused by emitted energy in the visible band wavelength
+(.39-.78 microns).
+Conduction  - Heat transfer that occurs within or between solids due to temperature gradients across the solids (s).
+Convection  - Heat transfer that occurs at the interface of a solid and fluid or gas due to temperature differences.
+Convection, Controlled  - Convection heat transfer in which the convective characteristics (such as flow, rate,
+velocity and temperature are precisely controlled
+Convection, Enhanced  - Convection heat transfer that occurs by drawing or drafting the fluid or gas over the solid
+media
+Convection, Forced  - Convection heat transfer that occurs by forcing the fluid or gas over the solid media.
+Convection, Free  - Convection heat transfer that occurs due to movement of air caused by density gradients near
+the solid surface.
+Conveyor, Edge  - Conveying mechanism that supports product by the edges Conveyor, Mesh - Conveying
+mechanism that fully supports the product.
+Conveyor, Secondary  - Conveying mechanism used beneath the edge conveyor.  Used to catch fallen product.
+Cooldown  - The period in the reflow process, after peak temperature, during which the temperature falls to the
+point where the solder joints solidify or freeze.
+Drying Time  - A portion of the reflow process after preheat and before the reflow spike where volatile materials
+escape from solder paste.
+Emissivity  - The ratio of the emissive power of a body to the emissive power of a blackbody at the same
+temperature
+Heaters, IR Panels  - Radiant energy emitters that emit IR energy in the middle to far infrared region from a plane
+surface.
+
+===== Page 2 =====
+Loading Factor  - Percentage of conveyor area that is covered by product.
+Muffle  -  - A rectangular cross section enclosure, located between the heating elements and the parts being
+processed, which contains the atmosphere required for the reflow process.
+Nitrogen Containment Capability  - Ability of an oven to contain nitrogen.  Expressed in parts per million (ppm)
+of residual oxygen as measured anywhere in the heated process area of the oven tunnel unless otherwise specified.
+Plenum  -  - A chamber that is used to uniformly distribute a fluid or gas (air, nitrogen or other gas), into the
+process chamber.
+Preheat  -  - A composite term generally referring to a process portion of the heat curve where the product is heated
+from ambient, at a determined rate until it reaches the preheat temperature.
+Preheat Force  - That portion of the force profile where light contact is made between the hot bars and the
+component leads to allow for wetting of the joining material (solder) prior to application of full bonding force.
+Quartz Lamp  - Rapid responding tungsten filament emitter used as an infrared heat source.  Lamps generate IR at
+wavelengths of 2.5-5.0 micron in SMT applications.
+Quench  -  - A cooling process that is used to rapidly cool the molten solder below its melting point in order to
+solidify it and obtain a strong and reliable solder joint.
+Radiant Heat Transfer  - The electromagnetic radiation emitted by one body due to the temperature difference
+between it and another body, the radiation being proportional to the difference.
+Radiation, Focused Infrared  - Backup reflector is used to concentrate infrared on a point or line.
+Radiation, Infrared  - Thermal radiation emitted in the infrared wavelength region (0.7-1000 microns) of the
+electromagnetic spectrum.
+Radiation, Long Wave IR  - Infrared occurring between the wavelengths of 5-100 microns.
+Radiation, Medium Wave IR  - Infrared occurring between the wavelengths of 2.5-5   microns .
+Radiation, - Near IR  - See short wave IR.
+Radiation, Non-focused Infrared  - Diffuse backup reflector used to scatter infrared over an area.
+Radiation, Re-emitted Infrared  - Thermal energy absorbed by a media is re-emitted as infrared at a wavelength
+dependent on its temperature.
+Radiation, Reflected Infrared  - IR energy that is redirected to a target.  No change in wavelength occurs.
+Radiation, Short Wave IR  - Infrared occurring between the wavelengths of 0.78-2.5 microns.
+Radiation, Thermal Infrared (IR)  - Thermal electromagnetic radiation heat transfer occurring between the
+wavelengths of .78-1 000 microns.
+Reflectivity  - Percentage of incident infrared that reflects from the surface, thus having no heating effect.
+Reflow, Process  - A general term referring to the overall process of reflowing solder paste in attaching surface
+mount components to various substrates.  It usually includes the preheat process, stabilization and/or drying, the
+reflow spike, and cooldown, but sometimes refers to the reflow spike area only.
+Reflow, Spike  - A portion of the reflow process where the temperature is raised sufficiently to cause the solder
+paste to reflow.
+Response Time  - Time required for thermal equilibrium to occur after a setpoint change is made.   Scavenged Air
+- Air removed from appropriate parts of the process area, i.e. tunnels to insure there are no fluid or gas vapors in
+the work place.
+Stabilization Period  - Period of time after preheat and before the reflow spike where the internal temperature
+differences between components are allowed to equalize. (Also known as "Drying Time", "Preflow" and 'Soak").
+Temperature, Ambient  - Dry bulb temperature of area under consideration.
+Temperature, Flux Activation  - A point of elevated temperature that causes the flux to become active in
+removing oxides on the metals to be joined.
+Temperature, Liquidus  - The temperature above which an alloy is completely liquid.
+Temperature, Maximum Reflow  - The maximum temperatures that any point on a board will reach at reflow
+conditions.
+Temperature, Preheat  - The final temperature a selected point achieves in the preheat process.
+Temperature Profile  - A graphic depiction of the temperature, a selected point traverses as it passes through the
+reflow process.
+Temperature, Reflow  - Often listed in reference to a band of temperatures where solder reflow takes place, i.e.
+205$-220$ C.

@@ -1,0 +1,2 @@
+py swfdoc.py
+pause
