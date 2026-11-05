@@ -1,0 +1,252 @@
+===== Page 1 =====
+Nov.25, 1969 J.L. ORNSYCINETAL 3,479,732
+LANUFACTUREOF CONPOSITETHUSTO STATICME'AL
+Filed Seot.l 19662 Sheets-Sheet1
+FIG. 1.
+IOO
+% REDUCTION
+
+===== Page 2 =====
+Nov.25, 1969 J.L. ORNSYEIN L 3 ,479,732
+N ANUFACTUREOFCORP0SITE1 11gRM0 S'1'ATIC METAL
+Filed Sept.1, 19662 Sheets-Sheet?
+0
+F ic. z.
+IOO
+80
+70
+60
+Y
+T '
+50
+I ’
+V O
+I I
+X
+E
+L X
+F
+30
+20
+O
+IO20304O5060708090IOO
+'Z REDUCTION
+B
+A
+
+===== Page 3 =====
+3,479,732
+United States Patent Office
+Patented Nov.25, 1969
+2
+of different thermal coefficientsof expansion, when in-
+3,479,732 terfacially bonded together, will deformor flex when
+MANUFACTUREOF COMPOSITE subjectedto temperature change.A measureofthede-
+THERMOSTATIC METAL flectionofa multilayer material is called its flexivity.
+JacobL. Ornstein, Attleboro,and HowardC. Mueller
+Flexivity is definedasa changein curvatureofa multi-
+Norwood, Mass., assignorsto Texas InstrumentsIn-5
+layer composite materialper unitof temperature change
+corporated, Dallas, Tex.,a corporationof Delaware
+Filed Sept. 1, 1966, Ser.No. 576,631 per unitof thicknessofthe composite. This flexivityde-
+Int.CI. B23k31/02 pends uponthe differenceinthe thermal coefficientsof
+U.S.CI. 29-497.5 4 Claims expansion (sometimes referredtoasthe expansivity)of
+iothe bonded layers. Mostofthe metals usedinthe manu-
+factureof conventional multilayerthermostatic metals
+ABSTRAITOFTHE DISCL€1SURE have expansivity, i.e., thermal coefficientsof expansion,
+A bonded composite is preparedofat leasttwo me:als, the valuesof whichare substantially independentof th•+
+a firstone havinga relativelylow com-fficientof thermal treatments through whichthe metals passinthe manu-
+expansion which is substantiallya functionof cold-work- 5 facturing process, suchasby rollingfor bondingand
+inganda secondone havinga relativelyh'h s coefficient sizing, forming,et cetera.For example, U.S. Patent
+of thermal expansion which is substantially independent 2,691,815 describesa bonding= method involving such
+of cold-working.A first thicknessofthe prepared com- treatments. These involve cold-working, annealingand
+posite is selected which isin excessofthe desired final sizing steps. Mostofthe alloys usedinthe manufacture
+gauge thickness,andat this excess thicknessthe com- 20pf common thermostatic metal composites have expan-
+posite is annealedtoa substantially dead-soft condition. sivities, i.e., thermal coefficientsof expansion, whichare
+Then it is reducedby rollingto said final gauge thick- substantially independentofthe cold-working performed
+ness, which involves cold-working.The amountof cold- thereon.
+working determinesthe coefficientof thermalexpansion Heretofore,in orderto varythe flexivityofthe usual
+of said first metal with concomitant determinationo1the R5 multilayer composite used, itwasthe practice during
+flexivityofthe compositeatthe final gauge. There exists manufactureto alterthe ratioofthe thicknessesofthe
+a relationship betweenthe rangesof reductionsandre- component layersto changethe operating temperature
+sulting flexivityofanytwo such metals selectedto form rangeof operationto whichthe composite material
+the composite.Therequiredreduction determinesthe wouldbe subjected when incorporatedina thermostat.
+increment thatthe first thickness must exceedthe final We have discovered thatan alloymaybe usedforoneof
+gauge. Thusforany arbitrarily selected final gauge,any the component layers which exhibitsthe unique charac-
+ofa rangeof fiexivitiescanbe obtainedbyproperly select- teristicsofa changein expansivityor thermal coefficient
+ingthe incrementat which annealing istobe performed. of expansionasa functionofthe amountofthe cold-
+Then rollingtothe finished gauge will cancelthe incre- working performed thereonand retained therein. Thus
+mentand involvethe proper amountof cold-working * 5 to obtaina desired flexivityor thermal activityfora
+needed. desired composite,we arrangeforan amountof cold-
+workingtobe accomplishedand retainedintheaIlOyto
+bring aboutany desiredoneof various flexivitiesina
+This invention relatestothe manufactureof composite
+substantial rangeofthe same whenthe alloy is incor-
+thermostatic metal, said metal being usefulinthe con-40
+poratedas partofacomposite. Henceanyoneof
+structionof thermostats.
+various flexivitiesata given operating temperaturemay
+Amongthe several objectsofthe inventionmaybe
+be obtainedfora given thicknessofa thermostatic com-
+notedthe provisionofa methodof manufactureof com-
+positeor given thicknessesof its components.
+positeor multilayer thermostatic materials, whereby such
+We have found thatan alloyof nominal composition
+materialsmaybe expeditiously manufactured according45
+in approximate percentagesby weightofCo57,Cr9
+toa varietyof desired ftexivities. Other Objectsand
+andthe balanceFe, exhibitsthe peculiar characteristic
+features willbein part apparentandin part pointedout
+which consistsina changein expansivityasthe function
+hereinafter.
+ofthe amountofthe cold-working performed thereon.
+The invention accordingly compris•sthe methods here-
+This alloyinthe cold-worked state is usedasa com-
+inafter described,the scopeofthe invention being indi-
+ponent layeroflowexpansivityinthe multilayer thermo-
+catedinthe following claims.
+stat material made accordingtothe invention.The other
+Inthe accompanying drawings,in which several ° layerof higher expansivity doesnot exhibita changein
+various possible embodimentsofthe inventionare 1IU] S- expansivityasa functionofthe amountof cold-working,
+trated, asfor example conventional304 stainless steelor silicon
+FIGS.land2are nonstatisticaland i11us'rative graphs” bronze. Silicon bronze consistsin approximate percentage
+illustratingthe decreasein flexivity with increased reduc- by weightofSI1'/andthe balance copper.Two layers
+tionof certain composite thermostatic materials con- of highandlow coefficients suchas above describedare
+structed accordingtothe invention;and often joinedby solid-phase bonding brought about.by
+FIG.3 isa perspective view illustratingone formor squeeze-rolling. During rollinga reduction occursinthe
+such materials. thicknessesofthe components which effectsa green
+Alloysaretobe considered hereinas speciesof metal, bond.To increasethe bond, annealing is used.Tàe com-
+the terms alloyand metal being usedsynonymously.Th• posite is then usually dead soft. It shouldbe noted that
+constructionand operationof compositeor multilayer other methodsof bondingcanbe employed. After bond-
+thermostatic metals is predicated uponthe fact that metals ing,the composite is rolled downtothe desired thick-
+
+===== Page 4 =====
+3 4
+ness, which again involves cold-working. It isthe latter reductionof 509c will producean averageof about
+cold-working thatwe control during sizingin orderto 56x 10'. Reduction is commonly definedin metal rolling
+controlthe flexivityofthefinal composite. Thusasto practicesas
+the alloyCo57,Cr 9, balanceFe,to obtaina desiredor
+selected flexivityofa finished multilayer thermostatic V100%)
+5
+material having said alloyasthe low-expansion com-
+ponentwe arrangetoncold-working that componentso
+where /t is definedas thicknessinthe “dead soft”or fully
+that ithasan expansivity which will produceinthe
+annealed state priorto cold rollingand where /2isthe
+finished thermostaticmaterialthe flexivity required.
+thickness after cold rolling.
+In FIG.1 isan illustrative graphofthe changein 10
+Fromthe above it willbe seen thatto producea flex-
+flexivityofa compositewith increasein reduction during
+ivityof103X 10',one would followastandard sequence
+rolling.The composite isa solid-phase bondedand sized
+of bonding, annealingand rolling stepsto reducethe
+multilayer thermostat material composedofthe alloy
+bonded materialto 0.010 inches thick.At this pointthe
+(Co57,Cr 9, balanceFe)forthe low-expansion com-
+material wouldbe completely annealedtocause i#to
+ponent (hereinafter referredtoas forminga layerA), 15
+equal it thereby causingthe final reductiontobe0Po.To
+andof304 stainless steelforthe high-expansion com-
+producea flexivityof56x 10',one would followthe
+ponent (hereinafter referredtoas forminga layerB).
+sam.• sequenceas above downto 0.020inch thick.At
+LayersAandBare illustratedin FIG.3as having been
+0.020one would fully annealthe materialand then cold
+green-bondedinthe solid-phase over their clean inter-
+rollto 0.010inch thickasthe last manufacturingop-
+facial areaCby rolling them together with reductionin 20
+eration.In this case, f, is 0.020 inchand itis 0.010
+thicknessand appropriate heatingto improvethe green
+inch causingthe final reductiontobe 509c.
+bond. Thereafter further reductiontoa desired thickness
+Similarly, assume thatone chosesa bonded material
+ofthe composite is carriedout with cold-workingin
+containingasa high-expansion side silicon bronzeand
+amountto bring aboutthe flexivity desiredinthe final
+asa low-expansion sidethe same cobalt, chromium, iron
+composite.The result isa bimetal thermostatic material
+alloy previously described. Final thickness desired is
+as shownin FIG. 3.
+again 0.010 inchbutthe desired flexivitiesare103y10°
+As above stated,the high-expansion layerBmaybe
+and84x 10°. Referringtothe chartof FIG.2one notes
+another metal than stainless steel,asfor examplebut
+that average flexivitiesof about103x10°and about
+without limitation,the above-mentioned silicon bronze.
+84x10'canbe producedby final reductionsof0Poand
+FIG.2 isa graphofthechangein flexivityofthe result- 30
+509c, respectively. Since these reductionsandthe final
+ing composite with increasein reduction during rolling,
+thicknessare exactlythe sameasinthe preceding case,
+for producinga solid-phase bonded multilayer thermostat
+the same sequenceof operationsas previously described
+material,as shownin FIG. 3, composedofthe alloy(Co
+wouldbe appliedto this case.
+57,Cr 9, balancebe)forthe low-expansion component
+It willbe understood thatthe examples above givenare
+Aand silicon bronzeforthe high-expansion component
+B. merely illustrativeand thatthe invention isnot limitedto
+The invention isnot limitedtothe productof two-layer the above described materials, thicknessesor finalre-
+thermostatic materialsand three-layer thermostaticma- ductions. Thus, knowingthe relationshipof flexivityto
+terialsmaybe made accordingtothe invention herein. reduction, whichcanbe determinedby empiricalen-
+Thusas is known,a shunt layerofa third metalmaybe 40 gineering studiesas illustratedin FIGS.1and 2, thenthe
+included between layersA,B. Additional cladding layers generationofany flexivity, withinthe rangeof those
+onthe outsideofthe layersAandBmay alsobe flexivities existing between0%and 99.99 -{-No finalre-
+employed withinthe scopeofthe inventionfor such duction, is possibleby selectingthe correct reductionas
+functionascorrosion resistance. previously describedand alteringthe manufacturing proc-
+It willbe understood that metallurgical bonding over essto produce that reduction.
+45
+the interfaceCmaybe accomplished otherwise thanby In viewofthe above, it willbe seen thatthe several
+solid-phase bondingbutin such eventthelow-expansion objectsofthe inventionare achievedand other advanta-
+layerA, composedofCo57,Cr9andthe balanceFe. geous results attained.
+must neverthelessbe sufficiently cold-worked during siz- As various changes couldbe madeinthe abovemethods
+ingto providethe amountof flexivity desiredinthe without departing fromthe scopeofthe invention, it is
+5O
+multilayer composite product. intended that all matter containedinthe above descrip-
+It shouldbeunderstood that it isan advantagein tionor showninthe accompanying drawings shallbe
+quantity productionofa thermostaticmaterialto produce interpretedas illustrativeandnotina limiting sense.
+itina givén thickness,orat leasta limited numberof What is claimed is:
+thicknesses. Therefore it is desirablenotto havethe 1.Tàe methodof manufacturinga bonded composite
+thickness dictatedby eachand every desired flexivity thermostaticmaterial havinga required flexivityatare-
+called for. Tàus productionofa composite thermostatic quired finished gauge, comprising,
+in quantities designedto meeta particular specifi- interfacially contacting firstand second metal layers,
+cationastoanyoneofa rangeof flexivitiescanbeac- the first layerof which is composedofa metal hav-
+complishedby usingany desired thicknessofthe com- inga comparativelylow coefficientof expansion
+posite and/or ratioof thicknessesofthe component fay- which is substantiallya functionof cold working
+ersofthefinished thermostatic material.By appropriate thereofby reduction,andthe second layerof which
+cold-workingofthelow-expansion layer composedof is composedofa metal havinga relatively highco-
+Co57,Cr9andthe balanceFe,oran equivalent,the efficientof thermal expansion which is substantially
+desired flexivityofthe composite is obtained. independentof cold working thereofby reduction,
+A specific examplefor carryingoutthe invention isas selectingan incrementto produce through its elimina-
+follows: Assume that one wishesto producea bonded tionby rollingan amountof cold workingofthe
+material containingas a high .expansion side304 stain- first layerof metalto producea thermal coefficient
+less stieland asalow expansion side.the cobalt, chro- of expansion thereof which withthe thermal coeffi-
+mium, iron aloy above described. Final thicknessdesired cientof expansionofthe second layer will produce
+ts 0.010 triches but it is desiredthata portionofthema- the required 8exivityofthe compositeatthe finisbed
+terial have ä flexivityof10310'and thata second por- gauge,
+tion havea flexivityof56x 10°. Referringtothe chartof bondingthe layersto forma compositeatan
+initial
+FID. 1one notes thata final reductionof0% will pro-
+gaugeofthe composite which exceeds that ofth9
+ducean average flexivityof about10310'anda final
+finished gaugeby said selected increment,
+
+===== Page 5 =====
+3,4T9,732
+5 6
+annealingthe compositetoa substantially dead-soft References Cited
+conditionat said initial gauge,and UNITED STATES PATENTS
+eli<m.inating said incrementby rollingthe dead-soft
+2,770,87011/ 1956 Mooradian ---. 29-195.5
+composite from said initial gauge downtothere- 3,102,7939/ 1963 Alban --.-- 29-195.5
+quired finished gauge.5 3,219,42311 /1965 Searset al... 29-195.5XR
+2.The method accordingto claim 1, whereinthe first 3,284,17411/ 1966 Zimmer--- 29-195.5XR
+layerof metal isan alloy consisting substantially of 57%
+R.B. LAZARUS, Assistant Examiner
+Co,9toCr,the balanceFe.
+3.The method accordingto claiiii 2, whereinthe sec- JOHNF• CAMPBELL, Primary Examiner
+i o
+ond layerof metal is silicon bronze. U .s.ci. X.R.
+4.The method accordingto claim 2, whereinthe sec- 29-195.5,498
+ond layerof metal is stainless steel.
