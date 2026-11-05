@@ -1,0 +1,5 @@
+reportlab>=4.0
+Pillow>=10.0
+numpy>=1.24
+# optionnel : glisser-déposer dans la fenêtre
+# tkinterdnd2
