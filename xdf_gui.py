@@ -23,7 +23,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import xdf2pdf as P  # noqa: E402
 import xdf_extract as X  # noqa: E402
 
-APP_NAME = 'DocBox XDF → PDF'
+APP_NAME = 'DocBox XDF → PDF by Nehaoua Fares (c) 2026'
 CFG_PATH = os.path.join(os.path.expanduser('~'), '.docbox_xdf_gui.json')
 DEFAULT_OUT = os.path.join(os.path.expanduser('~'), 'DocBox_PDF')
 
